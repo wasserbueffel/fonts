@@ -1,34 +1,35 @@
 @font-face {
   font-family: "Rajdhani";
-  src: url('Rajdhani-Regular.ttf') format('truetype');
+  src: url('Rajdhani/Rajdhani-Thin.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Rajdhani";
-  src: url('Rajdhani-Regular.ttf') format('truetype');
+  src: url('Rajdhani/Rajdhani-Regular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
   
   @font-face {
   font-family: "Rajdhani";
-  src: url('Rajdhani-Regular.ttf') format('truetype');
+  src: url('Rajdhani/Rajdhani-Medium.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
 }
     
   @font-face {
   font-family: "Rajdhani";
-  src: url('Rajdhani-Regular.ttf') format('truetype');
+  src: url('Rajdhani/Rajdhani-SemiBold.ttf') format('truetype');
   font-weight: 600;
   font-style: normal;
 }
     
   @font-face {
   font-family: "Rajdhani";
-  src: url('Rajdhani-Regular.ttf') format('truetype');
+  src: url('Rajdhani/Rajdhani-Bold.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
   }
+
